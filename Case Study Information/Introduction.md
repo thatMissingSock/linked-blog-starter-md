@@ -1,0 +1,7 @@
+- the case study is about a system called "Ven Drive". 
+- it will be implemented in the cities of "Meruba" and "Aruba" in the country of "Venerabia".
+- Meruba will be mainly about **politics and business**
+- Aruba will be a **residential centre** with **extensive tourist, sports, retail, and entertainment facilities**
+- BOTH cities will be completed by *2030*
+- they aim to *recycle 92% of waste* and water will be cleaned by *4 desalination plants*
+- ***power will be derived solely from wind and solar***

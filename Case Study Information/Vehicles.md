@@ -1,0 +1,5 @@
+- All vehicles including (HGV's) inside the country of Venerabia will be completely electric by 2030
+	- they even stated they ***will not*** use fossil fuel to power these vehicles
+- The government has created a scheme to help their citizens buy these vehicles by paying for 90% of the cost of these new vehicles 
+	- they have done this by making a deal with Tesla
+		- Tesla has agreed to make new, bespoke [[Tesla Models]] for the citizens of Venerabia which will be known as Tesla Vs

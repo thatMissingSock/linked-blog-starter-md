@@ -1,0 +1,4 @@
+- This is the hub that receives and transmits data to/from the [[Ven Drive System]] and the [[Ven Drive Mobile Application]]
+- It is located in Mumbai, India
+- It is not completely automatic as it contains human operators for a variety of roles
+- Operators get bonus' for processing
